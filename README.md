@@ -9,6 +9,6 @@
 <div style="display: inline_block"><br/>
     <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 
-</div><br/>>
+</div><br/>
 
 Formando em Engenharia, descobrindo novas áreas em Análise e Desenvolvimento de Sistemas, já apaixonado por Java.
