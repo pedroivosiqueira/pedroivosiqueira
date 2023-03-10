@@ -5,6 +5,8 @@
 
 ![Pedro Ivo GitHub Stats](https://github-readme-stats.vercel.app/api?username=pedroivosiqueira&show_icons=true&theme=dracula)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedroivosiqueira)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Tecnologias
 <div style="display: inline_block"><br/>
     <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
